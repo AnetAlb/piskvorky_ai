@@ -1,6 +1,6 @@
 from random import randint
 
-import ai
+import aneta_albrechtova as ai
 
 def vstup():
     cislo_policka=int(input("Zadej pole kam chces hrat: " ))
